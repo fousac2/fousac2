@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fousac2
 - 👀 I’m interested in: programming
 - 🌱 I’m currently learning: everything
-- 💞️ I’m looking to collaborate on: parttime | freelance
+- 💞️ I’m working for Siemens Advanta now
 - 📫 How to reach me: fousac2@seznam.cz
 
 <!---
